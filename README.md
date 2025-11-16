@@ -1,24 +1,31 @@
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mg0x7BE/repository-template)
-![GitHub License](https://img.shields.io/github/license/mg0x7BE/repository-template)
-![GitHub Created At](https://img.shields.io/github/created-at/mg0x7BE/repository-template)
-![GitHub forks](https://img.shields.io/github/forks/mg0x7BE/repository-template)
-![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/repository-template)
+![GitHub repo size](https://img.shields.io/github/repo-size/mg0x7BE/fsharp-logo-proposal)
+![GitHub License](https://img.shields.io/github/license/mg0x7BE/fsharp-logo-proposal)
+![GitHub Created At](https://img.shields.io/github/created-at/mg0x7BE/fsharp-logo-proposal)
+![GitHub forks](https://img.shields.io/github/forks/mg0x7BE/fsharp-logo-proposal)
+![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/fsharp-logo-proposal)
 
 
-# Template Repository
+# F# Logo Proposal
 
-This repository serves as a template for starting new projects.
+This repository contains a proposal for an improved F# language logo design.
 
-## Features
+## Available Formats
 
-- Easy setup
-- Customizable configurations
-- Some popular badges already in place
+The repository includes logo files in the following formats:
+- PNG
+- SVG
+- WebP
 
-## Getting started
+## Documentation
 
-To use this template, select it from the **Repository template** dropdown when creating a new repository.
+The [fsharp-logo-proposal.pdf](https://github.com/mg0x7BE/fsharp-logo-proposal/blob/master/fsharp-logo-proposal.pdf) file contains a detailed description and documentation of the proposed changes.
+
+The `fsharp-logo-proposal.afdesign` file contains the original design project created in Affinity Designer.
+
+## Usage
+
+I hope this proposal resonates with the amazing F# community! Even if it doesn't gain widespread adoption, anyone who likes this design is welcome to use the project and the files available here.
 
 ## License
 
